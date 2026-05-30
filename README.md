@@ -88,6 +88,6 @@ I'm a software developer passionate about building practical solutions through a
 ### 📫 Connect With Me
 
 * GitHub: https://github.com/SaiSreeHarsha2005
-* LinkedIn: linkedin.com/in/minnekanti-sai-sree-harsha
+* LinkedIn: www.linkedin.com/in/minnekanti-sai-sree-harsha
 
 > Building, learning, and improving one project at a time.
